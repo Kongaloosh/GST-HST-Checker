@@ -2,10 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 from time import sleep
 import json
-import re
-import urllib3
-import ssl
-import certifi
 # from mechanize import Browser
 REQUEST_DATE = '2018-01-01'
 
